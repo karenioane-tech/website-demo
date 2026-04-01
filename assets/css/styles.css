@@ -311,8 +311,8 @@ animation: load 2s ease forwards;
 .skill__progress.html { width: 90%; }
 .skill__progress.css { width: 85%; }
 .skill__progress.js { width: 75%; }
-.skill__progress.IOT{ width: 95%; }
-.skill__progress.web { width: 95%; }
+.skill__progress.IOT{ width: 65%; }
+.skill__progress.web { width: 85%; }
 .skill__progress.robot { width: 85%; }
 .skill__progress.ux { width: 65%; }
 
